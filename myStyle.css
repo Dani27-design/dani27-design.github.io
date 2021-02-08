@@ -1,0 +1,110 @@
+.slider h3,
+.platform h3,
+.school h3,
+.portfolio h3,
+.achievement h3,
+.contact h3 {
+    font-family: "Kaushan Script" !important;
+    text-shadow: 2px 2px 5px rgba(255, 255, 255, 0.2);
+}
+
+.crd {
+    box-shadow: 2px 2px 5px rgba(117, 117, 117, 0.4) !important;
+}
+
+.aku {
+    box-shadow: 2px 5px rgba(61, 61, 61, 0.6) !important;
+}
+
+.ctc {
+    border-radius: 20px;
+}
+
+.slider h5,
+.desk h5,
+.desk p,
+.prog p,
+.contact {
+    font-family: "Quicksand" !important;
+}
+
+.sidenav a {
+    color: blanchedalmond !important;
+    font-family: "Quicksand" !important;
+}
+
+.school {
+    background-color: black;
+}
+
+.card   {
+    border-radius: 10px !important;
+    overflow: hidden !important;
+    box-shadow: rgba(0, 0, 0, 0.8) !important;
+}
+
+.portfolio {
+    background-color: black;
+}
+
+.achievement{
+    background-color: black;
+}
+
+.contact    {
+    background-color: black;
+}
+
+.platform {
+    width: auto;
+    height: auto;
+    padding: 10px 0;
+    background-color: black;
+}
+
+.bg {
+    height: 95%;
+    width: 95%;
+    margin: auto;
+    border-radius: 25px;
+    background-image: url(aset/bgpar.jpg);
+    background-size: cover;
+    background-position-x: center;
+    background-attachment: fixed;
+    
+}
+
+section {
+    padding: 20px 0;
+}
+
+.platform img {
+    max-width: 145px;
+    margin: 0 30px;
+    padding: 30px 30px;
+}
+
+.portfolio img  {
+    border-radius: 20px !important;
+    padding: 20px 20px;
+}
+
+footer  {
+    padding: 20px 0;
+    font-family: "Alex Brush";
+}
+
+@font-face {
+    font-family: 'Alex Brush';
+    src: url('AlexBrush-Regular.ttf') format('ttf');
+}
+
+@font-face {
+    font-family: 'Kaushan Script';
+    src: url('KaushanScript-Regular.otf') format('otf');
+}
+
+@font-face {
+    font-family: 'Quicksand';
+    src: url('Quicksand-Italic.otf') format('otf');
+}
