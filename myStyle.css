@@ -96,15 +96,15 @@ footer  {
 
 @font-face {
     font-family: 'Alex Brush';
-    src: url('AlexBrush-Regular.ttf') format('ttf');
+    src: url('AlexBrush-Regular.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'Kaushan Script';
-    src: url('KaushanScript-Regular.otf') format('otf');
+    src: url('KaushanScript-Regular.otf') format('opentype');
 }
 
 @font-face {
     font-family: 'Quicksand';
-    src: url('Quicksand-Italic.otf') format('otf');
+    src: url('Quicksand-Italic.otf') format('opentype');
 }
